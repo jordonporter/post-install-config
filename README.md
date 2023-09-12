@@ -68,7 +68,7 @@ a password for Jane. Remember this password too. Uncheck "Require password chang
 <img src="https://i.imgur.com/GFUOmmu.png" height="80%" width="80%" alt="New Users"/>
 </p>
 <p>
-<h3> Step 7: • Configure SLAs </h3> • The purpose of the Service Level Agreement (SLA) is to prioritize requests and set a timeframe for resolving helpdesk tickets. Let's get started with this. Return to the "Admin Panel" and go to "Manage" and then "SLA" to create three SLA plans. Click "Add New SLA Plan" and name it "SEV A," with a grace period of "1" hour, and a schedule of "24/7." This means that any ticket that comes in should be resolved within 1 hour, no matter when it arrives.
+<h3> Step 7: Configure SLAs </h3> • The purpose of the Service Level Agreement (SLA) is to prioritize requests and set a timeframe for resolving helpdesk tickets. Let's get started with this. Return to the "Admin Panel" and go to "Manage" and then "SLA" to create three SLA plans. Click "Add New SLA Plan" and name it "SEV A," with a grace period of "1" hour, and a schedule of "24/7." This means that any ticket that comes in should be resolved within 1 hour, no matter when it arrives.
 </p>
 
 • Now, create two more SLAs: one called "SEV B" with a grace period of "4" hours and a 24/7 schedule, and another named "SEV C" with an "8" hour grace period and a schedule from "Monday-Friday." This way, you've set up different response times for various types of requests.
