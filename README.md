@@ -87,5 +87,5 @@ a password for Jane. Remember this password too. Uncheck "Require password chang
 <p>
 <br />
 <br/>
-<h2> That Completes The Post-Install Configuration Of osTicket! </h2>
+<h2> That completes the post-install configuration of osTicket! </h2>
 
